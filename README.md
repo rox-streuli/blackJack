@@ -1,5 +1,5 @@
-# blackJack - GUI
-Simple card game created in Tkinter.
+# BlackJack
+Simple card game created in Tkinter. Example of Functional Programming.
 ## Table of Contents
 * [General info](#general-info)
 * [Technologies](#technologies)
